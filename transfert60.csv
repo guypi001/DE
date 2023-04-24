@@ -1,0 +1,251 @@
+#,Club(s),Club(s),Compétition,Dépenses,Arrivées,Revenus,Départs,Solde
+1,,AC Milan,Serie A,384 K €,105,-,146,-384 K €
+2,,Newcastle United,First Division (- 91/92),321 K €,106,238 K €,89,-84 K €
+3,,FC Everton,First Division (- 91/92),280 K €,66,117 K €,55,-163 K €
+4,,Real Madrid,LaLiga,273 K €,125,14 K €,124,-259 K €
+5,,RV & AV Feijenoord,Eredivisie,252 K €,31,37 K €,21,-214 K €
+6,,FC Liverpool,Angleterre,242 K €,74,86 K €,62,-156 K €
+7,,Manchester United,First Division (- 91/92),224 K €,65,94 K €,47,-130 K €
+8,,FC Arsenal,First Division (- 91/92),207 K €,62,26 K €,49,-181 K €
+9,,Tottenham Hotspur,First Division (- 91/92),204 K €,46,79 K €,34,-125 K €
+10,,Aston Villa,First Division (- 91/92),183 K €,59,94 K €,46,-89 K €
+11,,AFC Sunderland,Angleterre,170 K €,64,189 K €,45,19 K €
+12,,Juventus Turin,Serie A,148 K €,109,23 K €,132,-125 K €
+13,,Birmingham City,First Division (- 91/92),144 K €,42,54 K €,32,-90 K €
+14,,RV & AV Sparta,Eredivisie,133 K €,38,1 K €,20,-132 K €
+15,,Leeds United,Angleterre,130 K €,49,16 K €,31,-114 K €
+16,,CF Atlante,Mexique,120 K €,7,-,12,-120 K €
+17,,West Bromwich Albion,First Division (- 91/92),118 K €,54,100 K €,34,-18 K €
+18,,PSV Eindhoven,Eredivisie,118 K €,31,38 K €,24,-80 K €
+19,,FC Fulham,First Division (- 91/92),116 K €,81,46 K €,78,-70 K €
+20,,Manchester City,First Division (- 91/92),108 K €,48,52 K €,33,-56 K €
+21,,Chelsea FC,First Division (- 91/92),107 K €,70,71 K €,56,-37 K €
+22,,Atlético de Madrid,LaLiga,100 K €,85,2 K €,97,-98 K €
+23,,Galatasaray,Süper Lig,90 K €,65,-,51,-90 K €
+24,,CF Barcelona,LaLiga,89 K €,109,15 K €,116,-74 K €
+25,,Cardiff City,First Division (- 91/92),86 K €,48,52 K €,31,-34 K €
+26,,Ajax Amsterdam,Eredivisie,81 K €,53,152 K €,43,71 K €
+27,,Luton Town,Angleterre,80 K €,36,107 K €,25,27 K €
+28,,Glasgow Rangers,Écosse,80 K €,33,13 K €,21,-67 K €
+29,,Leicester City,First Division (- 91/92),74 K €,62,66 K €,49,-7 K €
+30,,FC Internazionale,Serie A,72 K €,138,-,159,-72 K €
+31,,Nottingham Forest,First Division (- 91/92),67 K €,44,14 K €,28,-54 K €
+32,,AC Fiorentina,Serie A,60 K €,136,-,146,-60 K €
+33,,Wolverhampton Wanderers,First Division (- 91/92),55 K €,55,146 K €,49,91 K €
+34,,Stoke City,Angleterre,51 K €,41,26 K €,32,-26 K €
+35,,West Ham United,First Division (- 91/92),49 K €,43,44 K €,23,-5 K €
+36,,Fenerbahce,Süper Lig,48 K €,63,-,49,-48 K €
+37,,Blackburn Rovers,First Division (- 91/92),45 K €,42,30 K €,20,-15 K €
+38,,Middlesbrough FC,Angleterre,44 K €,41,15 K €,34,-29 K €
+39,,SV Blauw-Wit,Eerste Divisie B,43 K €,30,14 K €,14,-30 K €
+40,,Lincoln City,Angleterre,43 K €,41,32 K €,30,-11 K €
+41,,Besiktas JK,Süper Lig,40 K €,74,-,54,-40 K €
+42,,Sevilla FC,LaLiga,38 K €,44,-,52,-38 K €
+43,,Willem II,Eredivisie,36 K €,27,-,11,-36 K €
+44,,FC Valencia,LaLiga,36 K €,39,21 K €,52,-15 K €
+45,,Huddersfield Town,Angleterre,34 K €,52,9 K €,44,-25 K €
+46,,Grimsby Town,Angleterre,33 K €,43,58 K €,37,25 K €
+47,,FC Portsmouth,Angleterre,33 K €,49,40 K €,40,7 K €
+48,,Sheffield United,Angleterre,31 K €,34,66 K €,22,35 K €
+49,,Derby County,Angleterre,31 K €,46,-,38,-31 K €
+50,,FC Brentford,Angleterre,30 K €,30,46 K €,34,16 K €
+51,,Real Zaragoza,LaLiga,29 K €,68,4 K €,68,-25 K €
+52,,Hull City,Angleterre,27 K €,37,30 K €,30,3 K €
+53,,Notts County,Angleterre,25 K €,44,42 K €,37,17 K €
+54,,Rapid JC,Eredivisie,23 K €,14,-,6,-23 K €
+55,,Heart of Midlothian FC,Écosse,23 K €,30,129 K €,20,107 K €
+56,,Colchester United,Angleterre,23 K €,13,17 K €,9,-6 K €
+57,,Port Vale FC,Angleterre,22 K €,24,36 K €,17,14 K €
+58,,Bristol City,Angleterre,21 K €,39,10 K €,27,-11 K €
+59,,Real Betis Balompié,LaLiga,21 K €,34,99 K €,32,78 K €
+60,,Swansea Town,Pays de Galles,21 K €,46,57 K €,37,36 K €
+61,,Enschedese Boys,Eerste Divisie A,21 K €,8,-,4,-21 K €
+62,,USV Elinkwijk,Eredivisie,20 K €,16,16 K €,8,-4 K €
+63,,Karagümrük Genclik Kulübü,Süper Lig,20 K €,30,-,13,-20 K €
+64,,Association Royale Athlétique Gent,Jupiler Pro League,20 K €,14,-,8,-20 K €
+65,,VVV,Eredivisie,20 K €,25,91 K €,12,71 K €
+66,,KFC Koog aan de Zaan,Eerste Divisie A,19 K €,12,44 K €,6,25 K €
+67,,Oldham Athletic,Angleterre,19 K €,33,13 K €,25,-6 K €
+68,,Bolton Wanderers,First Division (- 91/92),19 K €,41,20 K €,28,1 K €
+69,,Celta Vigo,LaLiga2,18 K €,48,47 K €,67,29 K €
+70,,RCH Heemstede,Eerste Divisie B,18 K €,12,9 K €,4,-9 K €
+71,,CSD Colo Colo,Chili,17 K €,34,-,30,-17 K €
+72,,Zeist,Jack’s League,16 K €,4,-,4,-16 K €
+73,,RV & AV Excelsior,Eerste Divisie B,16 K €,9,-,4,-16 K €
+74,,Norwich City,Angleterre,15 K €,38,35 K €,23,20 K €
+75,,FC Southampton,Angleterre,15 K €,30,960 €,19,-14 K €
+76,,Blackpool FC,First Division (- 91/92),14 K €,45,26 K €,26,12 K €
+77,,SC Enschede,Eredivisie,14 K €,25,21 K €,14,7 K €
+78,,Fortuna '54,Eredivisie,14 K €,23,-,13,-14 K €
+79,,Sporting CP,Liga Portugal,14 K €,34,-,26,-14 K €
+80,,AVC Heracles,Eerste Divisie B,14 K €,18,-,5,-14 K €
+81,,Chelmsford City,Angleterre,12 K €,14,-,11,-12 K €
+82,,Barnsley FC,Angleterre,12 K €,32,70 K €,23,58 K €
+83,,BVC Amsterdam (- 1958),Pays-Bas,12 K €,8,-,9,-12 K €
+84,,NVAV NEC,Jack’s League,11 K €,13,-,6,-11 K €
+85,,FC Watford,Angleterre,11 K €,32,21 K €,28,10 K €
+86,,Alkmaar '54 (- 1967),Eredivisie,10 K €,18,-,3,-10 K €
+87,,NOAD Tilburg,Eredivisie,10 K €,6,45 K €,2,35 K €
+88,,Preußen Münster,Oberliga West,10 K €,55,-,40,-10 K €
+89,,Kilmarnock FC,Écosse,10 K €,8,-,4,-10 K €
+90,,SV Austria Salzburg,Bundesliga,10 K €,55,-,48,-10 K €
+91,,Celtic Glasgow,Écosse,10 K €,31,-,22,-10 K €
+92,,EVV Eindhoven,Eerste Divisie B,10 K €,13,48 K €,10,38 K €
+93,,SL Benfica,Liga Portugal,10 K €,27,-,18,-10 K €
+94,,Mansfield Town,Angleterre,9 K €,25,8 K €,16,-1 K €
+95,,Southend United,Angleterre,9 K €,31,21 K €,22,12 K €
+96,,Dundee FC,Écosse,9 K €,20,38 K €,15,29 K €
+97,,Real Mallorca,LaLiga,9 K €,27,-,25,-9 K €
+98,,East Fife FC,Écosse,8 K €,10,-,10,-8 K €
+99,,BVV,Eerste Divisie A,8 K €,7,-,2,-8 K €
+100,,FC Chesterfield,Angleterre,8 K €,23,28 K €,19,20 K €
+101,,Hibernian FC,Écosse,8 K €,26,42 K €,29,34 K €
+102,,HVV 't Gooi,Eerste Divisie B,8 K €,4,-,2,-8 K €
+103,,SV Werder Bremen,Oberliga Nord,8 K €,92,-,86,-8 K €
+104,,Real Valladolid Deportivo,LaLiga,8 K €,50,18 K €,46,11 K €
+105,,UD Las Palmas,LaLiga2,7 K €,51,13 K €,50,6 K €
+106,,Preston North End,First Division (- 91/92),7 K €,49,52 K €,36,45 K €
+107,,Burnley FC,First Division (- 91/92),7 K €,48,9 K €,28,2 K €
+108,,Sheffield Wednesday,First Division (- 91/92),7 K €,47,50 K €,30,43 K €
+109,,Bradford City,Angleterre,7 K €,18,5 K €,14,-2 K €
+110,,GVAV Groningen,Eredivisie,7 K €,13,-,6,-7 K €
+111,,SVV Schiedam,Eerste Divisie B,7 K €,6,-,7,-7 K €
+112,,Be Quick (Gr.),Eerste Divisie B,7 K €,12,-,8,-7 K €
+113,,DFC Dordrecht,Eerste Divisie A,6 K €,16,2 K €,9,-4 K €
+114,,FC Walsall,Angleterre,6 K €,37,16 K €,26,10 K €
+115,,UD Levante,LaLiga2,6 K €,50,2 K €,49,-4 K €
+116,,Brighton & Hove Albion,Angleterre,6 K €,29,40 K €,17,35 K €
+117,,Altay SK,Süper Lig,5 K €,41,90 K €,18,85 K €
+118,,Northampton Town,Angleterre,5 K €,34,12 K €,26,7 K €
+119,,Helmondia '55,Eerste Divisie A,4 K €,6,23 K €,4,19 K €
+120,,Altonaer FC 93 Borussia,Oberliga Nord,4 K €,40,-,30,-4 K €
+121,,Tranmere Rovers,Angleterre,4 K €,23,-,11,-4 K €
+122,,Plymouth Argyle,Angleterre,4 K €,34,93 K €,23,89 K €
+123,,FC Millwall,Angleterre,4 K €,25,3 K €,26,0 K €
+124,,BSC Young Boys,Super League,4 K €,55,-,44,-4 K €
+125,,VV Heerenveen,Eerste Divisie B,3 K €,17,9 K €,9,6 K €
+126,,Raith Rovers FC,Écosse,3 K €,12,73 K €,11,69 K €
+127,,FC Granada,LaLiga,3 K €,53,4 K €,60,1 K €
+128,,Athletic Bilbao,LaLiga,3 K €,51,40 K €,44,37 K €
+129,,Dunfermline Athletic FC,Écosse,3 K €,17,8 K €,11,5 K €
+130,,Real Gijón,LaLiga2,3 K €,33,-,50,-3 K €
+131,,Halifax Town (- 2008),Angleterre,3 K €,13,-,7,-3 K €
+132,,Scunthorpe United,Angleterre,3 K €,28,10 K €,12,7 K €
+133,,LASK,Bundesliga,3 K €,39,-,30,-3 K €
+134,,Torquay United,Angleterre,2 K €,12,9 K €,12,7 K €
+135,,FC Reading,Angleterre,2 K €,23,-,20,-2 K €
+136,,Carlisle United,Angleterre,2 K €,12,12 K €,12,10 K €
+137,,EBOH Dordrecht,Eerste Divisie B,2 K €,14,-,10,-2 K €
+138,,AGOVV,Eerste Divisie A,2 K €,15,-,4,-2 K €
+139,,Crewe Alexandra,Angleterre,2 K €,33,20 K €,29,18 K €
+140,,Orión FC - Desamparados,Costa Rica,2 K €,3,-,1,-2 K €
+141,,Derry City,Irlande du Nord,2 K €,5,-,6,-2 K €
+142,,AFC Barrow,Angleterre,2 K €,17,-,12,-2 K €
+143,,Swindon Town,Angleterre,2 K €,19,7 K €,7,6 K €
+144,,Wrexham AFC,Pays de Galles,1 K €,25,34 K €,18,33 K €
+145,,PSV Eindhoven U19,Pays-Bas,1 K €,1,-,1,-1 K €
+146,,De Graafschap Doetinchem,Jack’s League,1 K €,12,16 K €,9,15 K €
+147,,C & FC Hermes-DVS,Eerste Divisie A,1 K €,12,12 K €,9,11 K €
+148,,RBC,Eerste Divisie A,1 K €,6,-,2,-1 K €
+149,,NAC,Eredivisie,1 K €,22,73 K €,10,72 K €
+150,,VfR Wormatia Worms,OL Südwest,1 K €,39,-,24,-1 K €
+151,,AFC Rochdale,Angleterre,1 K €,18,-,14,-1 K €
+152,,Accrington Stanley,Angleterre,1 K €,17,11 K €,15,10 K €
+153,,Bury FC,Angleterre,1 K €,38,-,23,-1 K €
+154,,RC Deportivo Coruña,LaLiga2,900 €,45,9 K €,69,8 K €
+155,,FC Porto,Liga Portugal,748 €,31,9 K €,20,8 K €
+156,,Southport FC,Angleterre,700 €,17,6 K €,19,5 K €
+157,,VV Zwartemeer,Jack’s League,700 €,23,14 K €,14,13 K €
+158,,SC Covilhã,Liga Portugal,650 €,6,-,4,-1 K €
+159,,FC Gateshead,Angleterre,600 €,8,-,8,-1 K €
+160,,FC Southampton U18,Angleterre,575 €,1,-,5,-1 K €
+161,,ZFC Zaandam,Eerste Divisie B,550 €,7,3 K €,4,3 K €
+162,,VfL Osnabrück,Oberliga Nord,500 €,45,-,39,-1 K €
+163,,RCD Español,LaLiga,300 €,62,22 K €,75,21 K €
+164,,Aberdeen FC,Écosse,230 €,32,22 K €,27,21 K €
+165,,CF Os Belenenses,Liga Portugal,124 €,15,748 €,11,1 K €
+166,,Newry City AFC,Irlande du Nord,-,2,-,2,+-0
+167,,FC St. Pauli,Oberliga Nord,-,67,-,54,+-0
+168,,Rikkyo University,Japon,-,1,-,1,+-0
+169,,Esporte Clube XV de Novembro,Brésil,-,5,-,4,+-0
+170,,ESV Südstern Singen,Allemagne,-,1,-,0,+-0
+171,,FC Dinamo Baku (-1992),Azerbaïdjan,-,10,-,15,+-0
+172,,SV Phönix Mürzzuschlag-Hönigsberg,Autriche,-,2,-,2,+-0
+173,,Dynamo Khmelnytskyi,Ukraine,-,16,-,1,+-0
+174,,SV Saar 05 Saarbrücken,OL Südwest,-,19,-,11,+-0
+175,,Viareggio 2014,Italie,-,16,-,18,+-0
+176,,US Dudelange,Luxembourg,-,1,-,1,+-0
+177,,Pro Sulmona,Italie,-,2,-,1,+-0
+178,,FC Eschenau,Allemagne,-,1,-,1,+-0
+179,,Real Ávila CF,Espagne,-,2,90 €,2,0 K €
+180,,SC/ATSV Tulln,Autriche,-,2,-,2,+-0
+181,,Verkhovyna Uzhgorod,Ukraine,-,38,-,40,+-0
+182,,Makedonikos Neapolis,Grèce,-,1,-,1,+-0
+183,,Petrolul Ploiesti,Roumanie,-,14,-,3,+-0
+184,,AC Venezia,Serie B,-,106,-,143,+-0
+185,,FK Dukla Prague B,Tchéquie,-,1,-,1,+-0
+186,,USM Blida,Algérie,-,2,-,2,+-0
+187,,VfB Hermsdorf,Allemagne,-,2,-,2,+-0
+188,,Prahova Ploiesti (1915 - 2001),Roumanie,-,1,-,1,+-0
+189,,ASK Ternitz,Regionalliga Ost,-,1,-,1,+-0
+190,,Central Español,Uruguay,-,2,1 K €,6,1 K €
+191,,FC Middlesbrough Formation,Angleterre,-,1,-,3,+-0
+192,,SC Olhanense,Portugal,-,2,-,3,+-0
+193,,Greenock Morton FC,Écosse,-,3,15 K €,10,15 K €
+194,,FC Vevey Sports 1899,Challenge League,-,8,-,5,+-0
+195,,DOSKO Bergen op Zoom,Pays-Bas,-,6,-,6,+-0
+196,,HNK Sibenik,Croatie,-,1,-,0,+-0
+197,,VfR Volkmarsen,Allemagne,-,1,-,1,+-0
+198,,Schwaben Augsburg U19,Allemagne,-,1,-,4,+-0
+199,,Itzehoer SV,Allemagne,-,12,-,16,+-0
+200,,FK Akmenes Cementas (- 2020),Lituanie,-,2,-,0,+-0
+201,,ISS Admira Landhaus,Autriche,-,1,-,1,+-0
+202,,KF Vllaznia,Albanie,-,1,-,5,+-0
+203,,Skra Czestochowa,Pologne,-,1,-,2,+-0
+204,,SC Siebenhirten,Autriche,-,2,-,4,+-0
+205,,SC Halberg Brebach,Allemagne,-,2,-,2,+-0
+206,,FC Corinthian-Casuals,Angleterre,-,2,-,1,+-0
+207,,Wisbech Town FC,Angleterre,-,10,4 K €,6,4 K €
+208,,Bradford Park Avenue,Angleterre,-,16,24 K €,17,24 K €
+209,,FC Carl Zeiss Jena U19,Allemagne,-,1,-,10,+-0
+210,,TSV Marl-Hüls,Oberliga West,-,10,-,1,+-0
+211,,SC Mineiro Aljustrelense,Portugal,-,1,-,1,+-0
+212,,SD Erandio Club,Espagne,-,2,-,5,+-0
+213,,FC Burnley U18,Angleterre,-,1,-,16,+-0
+214,,SSV Jahn Regensburg II,Allemagne,-,1,-,1,+-0
+215,,TV Bremen-Walle,Allemagne,-,1,-,1,+-0
+216,,SC Red Star Wien,Autriche,-,13,-,21,+-0
+217,,Royale Jeunesse Rochefortoise FC,Belgique,-,1,-,0,+-0
+218,,Annbank United FC,Écosse,-,1,-,4,+-0
+219,,FK Banik Most,Tchéquie,-,1,-,2,+-0
+220,,Torpedo Mykolaiv,Ukraine,-,1,-,1,+-0
+221,,Metallurg Krasny Sulin,Russie,-,4,-,3,+-0
+222,,Catanduva FC,Brésil,-,1,-,1,+-0
+223,,TSV Straubing,Allemagne,-,2,-,5,+-0
+224,,Stade Soussien,Tunisie,-,2,-,1,+-0
+225,,Newtongrange Star FC,Écosse,-,2,-,7,+-0
+226,,Spartaan '20,Pays-Bas,-,1,-,1,+-0
+227,,Arsenal Kiew,URSS,-,15,-,13,+-0
+228,,Seoul FC (1930),Corée du Sud,-,1,-,1,+-0
+229,,Walsall FC U18,Angleterre,-,1,-,5,+-0
+230,,Cartagena CF ( -1952),Espagne,-,2,-,2,+-0
+231,,FK Jagodina,Serbie,-,1,-,1,+-0
+232,,FK Sarajevo,Bosnie-Herzégovine,-,6,-,3,+-0
+233,,Esbjerg fB,Danemark,-,9,-,3,+-0
+234,,C.S. Trevigliese,Italie,-,1,-,4,+-0
+235,,JOS Amsterdam,Pays-Bas,-,2,-,3,+-0
+236,,VMS Moskau (-1953),URSS,-,44,-,44,+-0
+237,,Lyn 1896 FK,Norvège,-,2,-,3,+-0
+238,,PSV Schwarz-Weiß Salzburg,Autriche,-,2,-,1,+-0
+239,,AS Giraumont,France,-,2,-,4,+-0
+240,,AS Magenta,Nouvelle-Calédonie,-,7,-,8,+-0
+241,,Valur Reykjavík,Islande,-,1,-,2,+-0
+242,,SC Einheit Dresden,DDR-Oberliga,-,5,-,24,+-0
+243,,FC Wohlen,Suisse,-,1,-,0,+-0
+244,,Associação Portuguesa de Desportos (SP),Brésil,-,27,-,23,+-0
+245,,RS Waremmien FC,Belgique,-,1,-,2,+-0
+246,,SC Motor Jena,DDR-Oberliga,-,54,-,36,+-0
+247,,VfB Stuttgart,Oberliga Süd,-,43,-,27,+-0
+248,,Bramfelder SV,Allemagne,-,1,-,0,+-0
+249,,TSG Vohwinkel 80,Allemagne,-,14,-,15,+-0
+250,,Clube Atlético Linense (SP),Brésil,-,1,-,1,+-0
