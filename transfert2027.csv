@@ -1,0 +1,251 @@
+#,Club(s),Club(s),Compétition,Dépenses,Arrivées,Revenus,Départs,Solde
+1,,Juventus Turin,Serie A,"60,00 mio. €",15,"5,50 mio. €",5,"-54,50 mio. €"
+2,,RasenBallsport Leipzig,Bundesliga,"54,00 mio. €",14,-,1,"-54,00 mio. €"
+3,,Real Madrid,LaLiga,"40,00 mio. €",4,-,0,"-40,00 mio. €"
+4,,Inter Milan,Serie A,"37,40 mio. €",34,"20,00 mio. €",8,"-17,40 mio. €"
+5,,OGC Nice,Ligue 1,"22,50 mio. €",10,"5,00 mio. €",4,"-17,50 mio. €"
+6,,US Sassuolo,Serie A,"20,00 mio. €",32,"30,00 mio. €",4,"10,00 mio. €"
+7,,Atlético de Madrid,LaLiga,"20,00 mio. €",13,-,2,"-20,00 mio. €"
+8,,Wolverhampton Wanderers,Premier League,"11,00 mio. €",7,-,2,"-11,00 mio. €"
+9,,Eintracht Francfort,Bundesliga,"9,00 mio. €",7,-,4,"-9,00 mio. €"
+10,,Lazio Rome,Serie A,"8,96 mio. €",16,-,2,"-8,96 mio. €"
+11,,RC Lens,Ligue 1,"7,20 mio. €",3,-,3,"-7,20 mio. €"
+12,,Sporting CP,Liga Portugal,"7,00 mio. €",9,-,2,"-7,00 mio. €"
+13,,Bayer 04 Leverkusen,Bundesliga,"7,00 mio. €",5,-,3,"-7,00 mio. €"
+14,,Genoa CFC,Serie B,"5,50 mio. €",25,-,9,"-5,50 mio. €"
+15,,FC Nantes,Ligue 1,"5,00 mio. €",4,-,4,"-5,00 mio. €"
+16,,Olympique de Marseille,Ligue 1,"5,00 mio. €",12,"2,00 mio. €",7,"-3,00 mio. €"
+17,,Villarreal CF B,LaLiga2,"2,50 mio. €",8,-,2,"-2,50 mio. €"
+18,,Santos Laguna,Liga MX Clausura,"2,35 mio. €",6,-,3,"-2,35 mio. €"
+19,,Torino FC,Serie A,"2,30 mio. €",15,-,7,"-2,30 mio. €"
+20,,Besiktas JK,Süper Lig,"2,00 mio. €",13,-,6,"-2,00 mio. €"
+21,,Royal Antwerp FC,Jupiler Pro League,"1,50 mio. €",9,"9,00 mio. €",4,"7,50 mio. €"
+22,,Montpellier Hérault SC,Ligue 1,"1,30 mio. €",3,-,2,"-1,30 mio. €"
+23,,Maccabi Tel Aviv,Ligat ha'Al,"1,30 mio. €",28,-,2,"-1,30 mio. €"
+24,,Académico Viseu FC,Liga Sabseg,"1,25 mio. €",3,-,5,"-1,25 mio. €"
+25,,VfB Stuttgart,Bundesliga,"1,20 mio. €",8,-,3,"-1,20 mio. €"
+26,,Royale Union Saint Gilloise,Jupiler Pro League,"1,00 mio. €",3,-,3,"-1,00 mio. €"
+27,,Al-Ittihad Club (Jeddah),Saudi Pro League,870 K €,6,-,2,-870 K €
+28,,Feyenoord Rotterdam,Eredivisie,850 K €,10,-,4,-850 K €
+29,,Rakow Czestochowa,Ekstraklasa,750 K €,8,-,2,-750 K €
+30,,Lokomotiv Moscou,Premier Liga,750 K €,15,-,0,-750 K €
+31,,Club Atlético Tigre,Superliga,743 K €,6,-,7,-743 K €
+32,,Hapoel Beer Sheva,Ligat ha'Al,720 K €,18,-,2,-720 K €
+33,,CA Rosario Central,Superliga,690 K €,6,-,6,-690 K €
+34,,Empoli Primavera,Primavera 1,450 K €,19,-,9,-450 K €
+35,,FC Nordsjalland U19,U19 Boys League,400 K €,1,-,0,-400 K €
+36,,Vitória Guimarães SC,Liga Portugal,300 K €,6,"1,75 mio. €",5,"1,45 mio. €"
+37,,CA River Plate U20,,300 K €,1,-,1,-300 K €
+38,,Feyenoord U21,O21 Div. 1 Spring,235 K €,7,-,4,-235 K €
+39,,FC Arouca,Liga Portugal,60 K €,2,-,4,-60 K €
+40,,Ohod Al-Medina,,25 K €,3,870 K €,2,845 K €
+41,,ssv HBSS,,-,4,-,0,+-0
+42,,Huachipato FC,Primera División,-,5,-,2,+-0
+43,,SV Oranje Wit,,-,1,-,2,+-0
+44,,IF Brommapojkarna,Allsvenskan,-,1,-,0,+-0
+45,,Teikyo High School,,-,2,-,2,+-0
+46,,Ranheim IL,OBOS-ligaen,-,4,-,2,+-0
+47,,Sassuolo Under 18,Under 18 - A,-,2,-,2,+-0
+48,,Terneuzense Boys,,-,1,-,1,+-0
+49,,Dinamo Minsk,Vysshaya Liga,-,2,-,0,+-0
+50,,Club Hilal Al-Quds,,-,1,-,1,+-0
+51,,SHB Da Nang FC,V.League 1,-,2,-,0,+-0
+52,,Club Atlético Temperley II,,-,3,-,0,+-0
+53,,SV Mesum,Westfalenliga 1,-,2,-,1,+-0
+54,,Esporte Clube Água Santa (SP),Paulistão A1 - Primeira Fase,-,14,-,0,+-0
+55,,Heider SV,Oberliga Schleswig-Holstein,-,2,-,0,+-0
+56,,Alagoinhas Atlético Clube (BA),Copa do Nordeste - Fase de Grupos,-,1,-,2,+-0
+57,,Club Atlético Temperley,B Nacional,-,3,-,3,+-0
+58,,Derby Académie,,-,2,-,0,+-0
+59,,SE Gama,,-,1,-,0,+-0
+60,,Internacional de Lages,,-,5,-,0,+-0
+61,,Club Sporting Cristal,Liga 1 Apertura,-,8,-,0,+-0
+62,,Atlético Monte Azul (SP),,-,1,-,0,+-0
+63,,Sport Club Corinthians Paulista B,,-,2,-,1,+-0
+64,,AZ Alkmaar U18,O18 Div. 1 Spring,-,1,-,0,+-0
+65,,ABC Futebol Clube (RN),Série B,-,2,-,13,+-0
+66,,Villanova Wildcats (Villanova University),,-,1,-,0,+-0
+67,,FC Emmendingen,,-,1,-,0,+-0
+68,,SC Obersprockhövel,Westfalenliga 2,-,1,-,0,+-0
+69,,CA River Plate II,,-,6,-,0,+-0
+70,,Johvi FC Phoenix,,-,1,-,1,+-0
+71,,Club Olimpo,Torneo Federal A,-,6,-,0,+-0
+72,,AS Houtain-Milanello,,-,1,-,0,+-0
+73,,RSV Meinerzhagen,Westfalenliga 2,-,3,-,1,+-0
+74,,KF Egnatia,Abissnet Superiore,-,4,-,0,+-0
+75,,Arsenal Fútbol Club U20,,-,1,-,0,+-0
+76,,Bisha FC,,-,1,-,0,+-0
+77,,TSV Buchbach,Regionalliga Bayern,-,3,-,1,+-0
+78,,HSK Zrinjski Mostar U17,Premijer Liga BiH U17,-,2,-,0,+-0
+79,,Victoria Clarholz,Oberliga Westfalen,-,4,-,3,+-0
+80,,RFC Spy,,-,1,-,0,+-0
+81,,Safa Beirut SC,Leb. Premier League,-,3,-,3,+-0
+82,,Tallinn JK Legion U21,,-,1,-,0,+-0
+83,,Atlanta United FC,MLS,-,9,-,2,+-0
+84,,Montevideo Wanderers,Primera División Apertura,-,3,-,1,+-0
+85,,SV Wallrabenstein,,-,1,-,0,+-0
+86,,Club Atlético Tigre II,,-,2,-,0,+-0
+87,,Carajás EC,,-,2,-,0,+-0
+88,,Royal Cappellen FC,2de Nationale VFV B,-,2,-,1,+-0
+89,,Titanes FC,Liga FUTVE 2. 1era Fase,-,2,-,0,+-0
+90,,FC Alverca,League 3 Promotion Round,-,5,-,2,+-0
+91,,FC Brünninghausen,Westfalenliga 2,-,5,-,2,+-0
+92,,1. FC Köln,Bundesliga,-,7,-,2,+-0
+93,,São Bernardo Futebol Clube (SP),Paulistão A1 - Primeira Fase,-,3,-,2,+-0
+94,,Manisa FK U19,,-,3,-,0,+-0
+95,,Sport Club do Recife,Série B,-,2,-,6,+-0
+96,,Forum Sport,,-,1,-,2,+-0
+97,,Santiago Wanderers,Primera B,-,6,-,3,+-0
+98,,Club Atlético Mitre,B Nacional,-,2,-,4,+-0
+99,,Hertha BSC II,Regionalliga Nord-Est,-,2,-,1,+-0
+100,,Atletico River Plate Montevideo B,,-,2,-,0,+-0
+101,,AEK Athènes B,Super League 2,-,1,-,1,+-0
+102,,IL Hødd,OBOS-ligaen,-,1,-,2,+-0
+103,,Renaissance Mons 44,,-,1,-,3,+-0
+104,,GIF Sundsvall,Superettan,-,1,-,1,+-0
+105,,TSG Lütter,,-,1,-,0,+-0
+106,,SV Werder Bremen II,Regionalliga Nord,-,7,-,1,+-0
+107,,CD Universidad Católica,Serie A Primera Etapa,-,1,-,2,+-0
+108,,SK Træff II,,-,1,-,0,+-0
+109,,FC Fulham U21,Premier League 2,-,3,-,1,+-0
+110,,VV Brielle,,-,4,-,3,+-0
+111,,OJC Rosmalen,Derde Divisie Dimanche,-,6,-,7,+-0
+112,,Rakvere JK Tarvas,,-,1,-,0,+-0
+113,,SG Dynamo Dresden,3. Liga,-,3,-,4,+-0
+114,,Botafogo Futebol Clube (PB),,-,4,-,4,+-0
+115,,Tanabi Esporte Clube (SP) U20,,-,1,-,0,+-0
+116,,Leatherhead FC,,-,1,-,0,+-0
+117,,Skeid Oslo II,,-,1,-,0,+-0
+118,,FK TSC Backa Topola,Super liga Srbije,-,4,-,3,+-0
+119,,VV Zwaluwen Vlaardingen,,-,1,-,3,+-0
+120,,Rosenborg BK,Eliteserien,-,5,-,0,+-0
+121,,FC Verden 04,LL Lüneburg,-,1,-,0,+-0
+122,,KVV Thes Sport B,,-,2,-,0,+-0
+123,,Stanford Cardinal (Stanford University),,-,1,-,0,+-0
+124,,Atlético Venezuela U20,,-,1,-,0,+-0
+125,,VfB Lübeck II,Oberliga Schleswig-Holstein,-,1,-,0,+-0
+126,,FSV Altdorf,,-,1,-,0,+-0
+127,,SV Huizen,Vierde Divisie B Samedi,-,2,-,0,+-0
+128,,FC Rastpfuhl,Saarlandliga,-,2,-,2,+-0
+129,,FC Carl Zeiss Iéna,Regionalliga Nord-Est,-,2,-,3,+-0
+130,,Esporte Clube Bahia B,,-,1,-,0,+-0
+131,,Resende Futebol Clube (RJ) U20,,-,2,-,0,+-0
+132,,Rijnsburgse Boys,Jack’s League,-,3,-,5,+-0
+133,,SVC '08 Wassenaar,,-,3,-,1,+-0
+134,,Standard de Liège,Jupiler Pro League,-,4,-,3,+-0
+135,,Maringá Futebol Clube (PR),,-,7,-,4,+-0
+136,,RSC Charleroi,Jupiler Pro League,-,8,-,2,+-0
+137,,Boyacá Patriotas FC,Torneo DIMAYOR I,-,1,-,1,+-0
+138,,SV DIOS,,-,1,-,0,+-0
+139,,Cornell Big Red (Cornell University),,-,2,-,0,+-0
+140,,CA Güemes,B Nacional,-,1,-,10,+-0
+141,,Shamrock Rovers,Premier Division,-,2,-,4,+-0
+142,,FC Horst Ermelo,,-,3,-,1,+-0
+143,,RRC Hamoir,2de Nationale ACFF,-,3,-,2,+-0
+144,,Detroit City FC U23,,-,1,-,0,+-0
+145,,UNLV Rebels (University of Nevada/Las Vegas),,-,1,-,0,+-0
+146,,Volta Redonda Futebol Clube (RJ) U20,,-,1,-,0,+-0
+147,,Larne FC,Premiership,-,1,-,0,+-0
+148,,Al-Jazeera Club (Jordan),,-,2,-,1,+-0
+149,,AD São Caetano (SP),,-,1,-,1,+-0
+150,,CD América de Cali U20,,-,2,-,0,+-0
+151,,Sharjah Brasil Futebol Clube (SP) U20,,-,1,-,0,+-0
+152,,Independiente Medellín,Liga Dimayor I,-,10,-,2,+-0
+153,,Akademia Ontustik Shymkent,Pervaya Liga,-,1,-,0,+-0
+154,,Akhmat Grozny,Premier Liga,-,4,-,1,+-0
+155,,Terengganu FC II,,-,1,-,0,+-0
+156,,Lyngby BK,Superligaen,-,3,-,0,+-0
+157,,Atlético de Rafaela U19,,-,1,-,0,+-0
+158,,Wuhan Three Towns U21,,-,1,-,0,+-0
+159,,Nova Southeastern Sharks (Nova SE University),,-,1,-,0,+-0
+160,,VV Rhoon,,-,3,-,0,+-0
+161,,Club Atlético Talleres,Superliga,-,24,-,7,+-0
+162,,BSV Schüren,Westfalenliga 2,-,2,-,1,+-0
+163,,SGV Freiberg,Regionalliga Südwest,-,2,-,0,+-0
+164,,SV Union Lohne,,-,1,-,0,+-0
+165,,Barretos Esporte Clube (SP) U20,,-,1,-,0,+-0
+166,,Nueva Chicago,B Nacional,-,3,-,6,+-0
+167,,KVV Zepperen Brustem,,-,1,-,0,+-0
+168,,Borussia Mönchengladbach U19,U19-Bundesliga West,-,3,-,2,+-0
+169,,VV Lunteren,,-,2,-,2,+-0
+170,,FC Lausanne-Sport,Challenge League,-,5,-,1,+-0
+171,,SV Werder Bremen U17,U17-BL N/NE,-,2,-,0,+-0
+172,,Sparta Nijkerk,Derde Divisie Samedi,-,4,-,10,+-0
+173,,RAS Monceau,,-,2,-,0,+-0
+174,,1.FC Gievenbeck,Oberliga Westfalen,-,4,-,3,+-0
+175,,FV Biesingen,,-,1,-,0,+-0
+176,,Cruzeiro Esporte Clube,Série A,-,9,-,7,+-0
+177,,FC Türkiye Wilhelmsburg,Oberliga Hamburg,-,1,-,0,+-0
+178,,Coquimbo Unido,Primera División,-,2,-,0,+-0
+179,,SV Wörnitzstein-Berg,,-,1,-,0,+-0
+180,,FV Dudenhofen,OL RP/Saar - Finals,-,1,-,0,+-0
+181,,Suzhou Dongwu,League One,-,1,-,4,+-0
+182,,Aarhus GF,Superligaen,-,10,-,3,+-0
+183,,Mito HollyHock,J2 League,-,3,-,5,+-0
+184,,ACS Inainte Modelu,,-,1,-,0,+-0
+185,,FC Poesele,,-,1,-,0,+-0
+186,,SV Buchonia Flieden II,,-,1,-,0,+-0
+187,,Al-Ta'ee,Saudi Pro League,-,3,-,1,+-0
+188,,Esporte Clube Sao Bernardo (SP),,-,5,-,3,+-0
+189,,CA Banfield,Superliga,-,6,-,5,+-0
+190,,Evansville Purple Aces (University of Evansville),,-,1,-,0,+-0
+191,,TSV Forst,,-,1,-,0,+-0
+192,,MVV Alcides U19,,-,1,-,1,+-0
+193,,Puebla FC,Liga MX Clausura,-,2,-,2,+-0
+194,,Beerschot V.A.,Challenger Pro League,-,2,-,3,+-0
+195,,Zenit St. Pétersbourg,Premier Liga,-,2,-,1,+-0
+196,,Wick Academy FC,Highland League,-,1,-,0,+-0
+197,,Türkgücü München,Regionalliga Bayern,-,1,-,0,+-0
+198,,KVC De Toekomst Borsbeke,,-,3,-,1,+-0
+199,,University College Dublin,Premier Division,-,1,-,0,+-0
+200,,FC Hound Dogs,Interm. League,-,1,-,0,+-0
+201,,AA Argentinos Juniors,Superliga,-,9,-,5,+-0
+202,,Eutin 08,Landesliga Holstein,-,2,-,0,+-0
+203,,Wigan Athletic U18,,-,1,-,6,+-0
+204,,Indiana Fire Academy,,-,6,-,1,+-0
+205,,Brinkumer SV,Bremenliga,-,2,-,2,+-0
+206,,SG Silberg/Eisenhausen,,-,3,-,0,+-0
+207,,LOSC Lille,Ligue 1,-,3,-,1,+-0
+208,,Dinamo Minsk II,,-,8,-,0,+-0
+209,,NIVO Sparta Zaltbommel,,-,2,-,4,+-0
+210,,CA Estudiantes (Buenos Aires) II,,-,1,-,0,+-0
+211,,Gimcheon Sangmu,K League 2,-,1,-,31,+-0
+212,,SK Kvitkovice,MSFL,-,2,-,0,+-0
+213,,Sportfreunde Hamborn 07,Oberliga Niederrhein,-,2,-,1,+-0
+214,,FC Hagen/Uthlede,LL Lüneburg,-,1,-,0,+-0
+215,,CD FAS,Primera División Clausura,-,2,-,0,+-0
+216,,VVOP Voorthuizen,,-,1,-,0,+-0
+217,,SV Schwandorf-Ettmannsdorf,LL Bayern-Mitte,-,1,-,0,+-0
+218,,Sepahan FC U21,,-,1,-,0,+-0
+219,,FSV 08 Bietigheim-Bissingen,Oberliga Baden-Württemberg,-,2,-,0,+-0
+220,,Puebla FC U20,Liga MX Sub-20 Clausura,-,4,-,0,+-0
+221,,SF/BG Marburg,VL Hessen-Mitte,-,3,-,1,+-0
+222,,SG Edelzell/Engelhelms,,-,2,-,1,+-0
+223,,Viktoria Goch,,-,2,-,0,+-0
+224,,Northwestern Wildcats (Northwestern University),,-,1,-,0,+-0
+225,,Go Ahead Eagles Deventer,Eredivisie,-,2,-,5,+-0
+226,,Esporte Clube Primavera (SP),,-,5,-,1,+-0
+227,,Club Social y Atlético Guillermo Brown,B Nacional,-,1,-,7,+-0
+228,,Vitesse Arnhem U18,U18 Div. 2 Spring,-,1,-,0,+-0
+229,,FK Ørn Horten,PostNord-ligaen Avd. 1,-,1,-,1,+-0
+230,,FC Hochwald Zerf,Rheinlandliga,-,1,-,0,+-0
+231,,SC Greven 09,,-,3,-,0,+-0
+232,,Ipswich Town U21,,-,2,-,0,+-0
+233,,CA Boca Juniors II,,-,19,-,0,+-0
+234,,St. Louis CITY SC,MLS,-,2,-,0,+-0
+235,,SV Meppen II,LL Weser-Ems,-,4,-,0,+-0
+236,,SV Vatanspor Aschaffenburg,LL Bayern-N/W,-,1,-,0,+-0
+237,,KFC Dessel Sport,1ste Nationale,-,1,-,6,+-0
+238,,Takushoku University,,-,1,-,1,+-0
+239,,Goiás Esporte Clube U20,CBF Brasileiro U20,-,4,-,2,+-0
+240,,SG Walluf II,,-,1,-,0,+-0
+241,,SV Budberg,,-,1,-,0,+-0
+242,,FC Miami City,,-,1,-,0,+-0
+243,,Pause en carrière,,-,12,-,18,+-0
+244,,Penang FC,Super League,-,1,-,2,+-0
+245,,Vejle Boldklub U19,U19 Boys League,-,4,-,0,+-0
+246,,Nação Esportes Futebol Clube (SC),,-,1,-,1,+-0
+247,,Eolikos Mytilinis,,-,1,-,0,+-0
+248,,KFC Merelbeke,2de Nationale VFV A,-,4,-,4,+-0
+249,,PSV Union Neumünster,Oberliga Schleswig-Holstein,-,5,-,5,+-0
+250,,Instituto AC Córdoba II,,-,3,-,0,+-0
