@@ -14,7 +14,7 @@
     <a href="https://github.com/guypi001<strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/guypi001Koman ABOI</a>
+    <a href="https://github.com/guypi001 Koman ABOI</a>
     ·
     <a href="https://github.com/github_username/repo_name/issues">Mamadou BARRY</a>
   </p>
