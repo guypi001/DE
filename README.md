@@ -10,16 +10,13 @@
 <h3 align="center">Projet de Data Engineering</h3>
 
   <p align="center">
-    Description du projet
     <br />
-    <a href="https://github.com/guypi001strong>Explore the docs »</strong></a>
+    <a href="https://github.com/guypi001<strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/guypi001/DE">View Demo</a>
+    <a href="https://github.com/guypi001Koman ABOI</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/github_username/repo_name/issues">Mamadou BARRY</a>
   </p>
 </div>
 
