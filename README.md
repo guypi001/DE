@@ -7,7 +7,7 @@
     <img src="IMAGES/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Projet de Data Engeneering</h3>
+<h3 align="center">Projet de Data Engineering</h3>
 
   <p align="center">
     Description du projet
@@ -15,7 +15,7 @@
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/guypi001/DE">View Demo</a>
     ·
     <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
     ·
