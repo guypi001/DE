@@ -23,7 +23,7 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<details>
+
   <summary>Table of Contents</summary>
   <ol>
     <li>
@@ -46,16 +46,20 @@
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
-</details>
+
 
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+Le football est l'un des sports les plus populaires au monde, suivi par des millions de fans passionnés. Le marché des transferts dans le football est également un domaine passionnant qui attire beaucoup d'attention, car il implique des millions de dollars de transactions chaque année. En tant que tel, l'analyse de ces transferts peut fournir des informations précieuses sur les tendances et les comportements du marché, qui peuvent être utilisées pour prendre des décisions commerciales éclairées.
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+Dans ce projet, nous avons analysé les données des transferts dans le football depuis la professionnalisation du sport jusqu'à aujourd'hui. Nous avons utilisé des techniques de data engineering pour nettoyer, transformer et intégrer les données provenant de diverses sources pour faciliter l'analyse. Nous avons également utilisé des méthodes d'apprentissage automatique pour modéliser les tendances du marché et prédire les transferts futurs.
+
+Le but de ce projet est de fournir une analyse complète et détaillée du marché des transferts dans le football, qui peut être utilisée pour informer les décisions commerciales et les stratégies de gestion des clubs. Nous avons également inclus des visualisations claires pour aider à comprendre les tendances et les relations entre les différentes variables.
+
+Dans les sections suivantes, nous allons décrire les données que nous avons utilisées, l'architecture technique que nous avons mise en place, les résultats de notre analyse, les enseignements que nous avons tirés de notre étude et les implications pour l'industrie du football. Nous espérons que cette analyse sera utile pour tous ceux qui s'intéressent au marché des transferts dans le football et qui cherchent à en savoir plus sur les tendances et les comportements du marché.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -79,8 +83,13 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Les données utilisées pour ce projet ont été recueillies auprès de diverses sources, la source principale étant le site Web Transfermarkt.com, qui est l'un des plus grands sites Web de données sur le football au monde. De plus, nous avons également utilisé les données d'opdata, quoique dans une moindre mesure. Le site Internet Transfermarkt.com contient une mine d'informations sur les joueurs, les clubs, les transferts, les contrats, les statistiques des matchs et de nombreuses autres données liées au football. Les données sont présentées sous forme de tableaux sur un grand nombre de pages Web. Certaines informations, telles que les valeurs de transfert, étaient situées dans des zones spécifiques de la page et nécessitaient une technique de grattage pour extraire les données.
+
+Pour extraire les données, nous avons utilisé le langage de programmation Python, en utilisant le module BeautifulSoup pour extraire les données HTML et le module Selenium pour naviguer et extraire les données des pages Web dynamiques. Les données extraites ont été nettoyées, transformées et stockées dans des fichiers CSV. Nous avons effectué trois mises à jour des données au cours du projet, la mise à jour finale étant effectuée avant l'analyse finale.
+
+Les données collectées incluent des informations sur les joueurs, telles que leur nom, leur âge, leur position, leur nationalité et leur historique de transfert. Nous avons également collecté des informations sur les clubs, telles que leur nom, leur ligue, leur historique de transfert et leur budget. Enfin, nous avons recueilli des informations sur les transferts, telles que les montants des transferts, les dates de transfert et les clubs impliqués. Nous avons effectué des traitements de données spécifiques, tels que la gestion des données manquantes et des valeurs aberrantes, pour garantir la qualité des données utilisées dans notre analyse.
+
+En résumé, les données utilisées pour ce projet ont été collectées à partir de plusieurs sources, le site Web Transfermarkt.com étant la source principale. Nous avons utilisé des techniques de grattage pour extraire les données et stocké les données extraites dans une base de données PostgreSQL. Les données collectées comprenaient des informations sur les joueurs, les clubs et les transferts. Nous avons également effectué des traitements de données spécifiques pour garantir la qualité des données utilisées dans notre analyse.
 
 ### Prerequisites
 
@@ -183,35 +192,3 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
