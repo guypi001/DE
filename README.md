@@ -153,16 +153,15 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Notre projet de data engineering sur le marché des transferts dans le football nous a permis de collecter, stocker, traiter et analyser un volume important de données à partir de plusieurs sources, principalement le site Transfermarkt.com et dans une moindre mesure opdata. Grâce à notre architecture de données distribuée, nous avons pu gérer efficacement les données collectées et les analyser pour comprendre les tendances du marché des transferts.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+L'analyse exploratoire des données que nous avons effectuée nous a permis de comprendre les tendances du marché des transferts dans le football depuis sa professionnalisation jusqu'à aujourd'hui. Nous avons pu identifier les équipes qui ont dépensé le plus d'argent pour les transferts de joueurs, les joueurs les plus chers, les ligues les plus actives sur le marché des transferts et les tendances des prix des transferts au fil du temps.
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+Nous avons également identifié des défis dans la collecte et la gestion des données, notamment la variabilité dans la qualité des données collectées et la nécessité de maintenir les données à jour pour obtenir des résultats précis.
+
+Notre projet a également souligné l'importance de la collaboration interdisciplinaire pour mener à bien un projet de data engineering. Nous avons travaillé en étroite collaboration avec des experts en football pour comprendre les concepts clés et les tendances du marché des transferts dans le football, et avec des ingénieurs de données pour mettre en place une architecture de données distribuée efficace pour gérer les données collectées.
+
+En conclusion, notre projet de data engineering sur le marché des transferts dans le football nous a permis de collecter, stocker, traiter et analyser un volume important de données pour comprendre les tendances du marché des transferts. Nous avons identifié les équipes qui ont dépensé le plus d'argent pour les transferts de joueurs, les joueurs les plus chers, les ligues les plus actives sur le marché des transferts et les tendances des prix des transferts au fil du temps. Nous avons également souligné l'importance de la collaboration interdisciplinaire pour mener à bien un projet de data engineering.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -171,7 +170,15 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE.txt` for more information.Notre projet de data engineering sur le marché des transferts dans le football nous a permis de collecter, stocker, traiter et analyser un volume important de données à partir de plusieurs sources, principalement le site Transfermarkt.com et dans une moindre mesure opdata. Grâce à notre architecture de données distribuée, nous avons pu gérer efficacement les données collectées et les analyser pour comprendre les tendances du marché des transferts.
+
+L'analyse exploratoire des données que nous avons effectuée nous a permis de comprendre les tendances du marché des transferts dans le football depuis sa professionnalisation jusqu'à aujourd'hui. Nous avons pu identifier les équipes qui ont dépensé le plus d'argent pour les transferts de joueurs, les joueurs les plus chers, les ligues les plus actives sur le marché des transferts et les tendances des prix des transferts au fil du temps.
+
+Nous avons également identifié des défis dans la collecte et la gestion des données, notamment la variabilité dans la qualité des données collectées et la nécessité de maintenir les données à jour pour obtenir des résultats précis.
+
+Notre projet a également souligné l'importance de la collaboration interdisciplinaire pour mener à bien un projet de data engineering. Nous avons travaillé en étroite collaboration avec des experts en football pour comprendre les concepts clés et les tendances du marché des transferts dans le football, et avec des ingénieurs de données pour mettre en place une architecture de données distribuée efficace pour gérer les données collectées.
+
+En conclusion, notre projet de data engineering sur le marché des transferts dans le football nous a permis de collecter, stocker, traiter et analyser un volume important de données pour comprendre les tendances du marché des transferts. Nous avons identifié les équipes qui ont dépensé le plus d'argent pour les transferts de joueurs, les joueurs les plus chers, les ligues les plus actives sur le marché des transferts et les tendances des prix des transferts au fil du temps. Nous avons également souligné l'importance de la collaboration interdisciplinaire pour mener à bien un projet de data engineering.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
