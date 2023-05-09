@@ -101,19 +101,25 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+La collecte et la gestion des données ont été au cœur de notre projet de data engineering sur le marché des transferts dans le football. Nous avons utilisé une architecture de données distribuée pour gérer le volume important de données collectées à partir de plusieurs sources, principalement le site Transfermarkt.com et dans une moindre mesure opdata.
+
+L'architecture de notre projet est la suivante :
+
+Collecte de données : Nous avons utilisé des scripts Python pour extraire les données des sites web Transfermarkt.com et opdata en utilisant la technique de scrapping. Les données ont été stockées dans des fichiers CSV puis enregistrées sur le cloud.
+
+Stockage de données : Nous avons utilisé Google drive pour la persistance de données..
+
+Traitement de données : Les données ont été nettoyées et traitées en utilisant Python et la bibliothèque Pandas. Les données ont été nettoyées pour éliminer les données manquantes, les valeurs aberrantes et les doublons. Les données ont été transformées pour être prêtes pour l'analyse.
+
+Analyse de données : Nous avons utilisé la bibliothèque Pandas pour effectuer une analyse exploratoire des données. Nous avons utilisé des graphiques et des tableaux pour visualiser les données et comprendre les tendances du marché des transferts.
+
+Stockage des résultats : Les résultats de l'analyse ont été stockés dans google Drive. Cela facilite la collaboration et garantit que tout le monde a accès aux mêmes données. De plus, le stockage des résultats dans Google Drive fournit une sauvegarde sécurisée en cas de perte de données ou de problèmes techniques.
+
+Notre architecture de données distribuée nous a permis de gérer efficacement un volume important de données collectées à partir de plusieurs sources. Les données ont été stockées dans une base de données PostgreSQL, ce qui nous a permis d'effectuer des opérations de traitement de données et d'analyse de données en utilisant Python et la bibliothèque Pandas. Les résultats de l'analyse ont été stockés dans des tables séparées pour faciliter l'accès et l'analyse ultérieure.
+
+En résumé, notre architecture de données distribuée a été conçue pour gérer efficacement les données collectées à partir de plusieurs sources, principalement le site Transfermarkt.com et dans une moindre mesure opdata. Nous avons utilisé Google Drive pour stocker les données, Python et la bibliothèque Pandas pour le traitement et l'analyse de données, et nous avons stocké les résultats de l'analyse dans des tables séparées pour faciliter l'accès et l'analyse ultérieure.
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
