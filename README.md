@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="#">
     <img src="IMAGES/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -47,7 +47,11 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 
-
+<div align="center">
+  <a href="#">
+    <img src="IMAGES/concept-d-affaires-du-football-un-fooball-sur-des-billets-dollar-et-le-vert-120053425.jpg" alt="Logo" width="1000" height="600">
+  </a>
+ </div>
 
 
 <!-- ABOUT THE PROJECT -->
