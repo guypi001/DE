@@ -98,9 +98,41 @@ En résumé, les données utilisées pour ce projet ont été collectées à par
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
+* numpy
+  ```python
+  import numpy as np
+  ```
+* pandas
+  ```python
+  import pandas as pd
+  ```
+* matplotlib
+  ```python
+  import matplotlib.pyplot as plt
+  ```
+* requests
+  ```python
+  import requests
+  ```
+* BeautifulSoup
+  ```python
+  from bs4 import BeautifulSoup
+  ```
+* webdriver
+  ```python
+  from selenium import webdriver
+  ```
+* Options
+  ```python
+  from selenium.webdriver.chrome.options import Options
+  ```
+* folium
+  ```python
+  import folium
+  ```
+* colormap
+  ```python
+  import branca.colormap as cm
   ```
 
 ### Installation
