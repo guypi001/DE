@@ -154,12 +154,6 @@ Project Link: [https://github.com/guypi001/DE](https://github.com/guypi001/DE)
 
 
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
