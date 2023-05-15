@@ -155,6 +155,3 @@ Project Link: [https://github.com/guypi001/DE](https://github.com/guypi001/DE)
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
