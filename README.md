@@ -22,40 +22,10 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
-
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-
-<div align="center">
-  <a href="#">
-    <img src="IMAGES/concept-d-affaires-du-football-un-fooball-sur-des-billets-dollar-et-le-vert-120053425.jpg" alt="Logo" width="1000" height="600">
-  </a>
- </div>
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Présentation
 
 Le football est l'un des sports les plus populaires au monde, suivi par des millions de fans passionnés. Le marché des transferts dans le football est également un domaine passionnant qui attire beaucoup d'attention, car il implique des millions de dollars de transactions chaque année. En tant que tel, l'analyse de ces transferts peut fournir des informations précieuses sur les tendances et les comportements du marché, qui peuvent être utilisées pour prendre des décisions commerciales éclairées.
 
@@ -69,23 +39,9 @@ Dans les sections suivantes, nous allons décrire les données que nous avons ut
 
 
 
-### Built With
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Analyse
 
 Les données utilisées pour ce projet ont été recueillies auprès de diverses sources, la source principale étant le site Web Transfermarkt.com, qui est l'un des plus grands sites Web de données sur le football au monde. De plus, nous avons également utilisé les données d'opdata, quoique dans une moindre mesure. Le site Internet Transfermarkt.com contient une mine d'informations sur les joueurs, les clubs, les transferts, les contrats, les statistiques des matchs et de nombreuses autres données liées au football. Les données sont présentées sous forme de tableaux sur un grand nombre de pages Web. Certaines informations, telles que les valeurs de transfert, étaient situées dans des zones spécifiques de la page et nécessitaient une technique de grattage pour extraire les données.
 
@@ -135,7 +91,7 @@ This is an example of how to list things you need to use the software and how to
   import branca.colormap as cm
   ```
 
-### Installation
+### Architecture
 
 La collecte et la gestion des données ont été au cœur de notre projet de data engineering sur le marché des transferts dans le football. Nous avons utilisé une architecture de données distribuée pour gérer le volume important de données collectées à partir de plusieurs sources, principalement le site Transfermarkt.com et dans une moindre mesure opdata.
 
@@ -161,33 +117,8 @@ En résumé, notre architecture de données distribuée a été conçue pour gé
 
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- CONTRIBUTING -->
-## Contributing
+## Conclusion
 
 Notre projet de data engineering sur le marché des transferts dans le football nous a permis de collecter, stocker, traiter et analyser un volume important de données à partir de plusieurs sources, principalement le site Transfermarkt.com et dans une moindre mesure opdata. Grâce à notre architecture de données distribuée, nous avons pu gérer efficacement les données collectées et les analyser pour comprendre les tendances du marché des transferts.
 
@@ -206,15 +137,7 @@ En conclusion, notre projet de data engineering sur le marché des transferts da
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.Notre projet de data engineering sur le marché des transferts dans le football nous a permis de collecter, stocker, traiter et analyser un volume important de données à partir de plusieurs sources, principalement le site Transfermarkt.com et dans une moindre mesure opdata. Grâce à notre architecture de données distribuée, nous avons pu gérer efficacement les données collectées et les analyser pour comprendre les tendances du marché des transferts.
-
-L'analyse exploratoire des données que nous avons effectuée nous a permis de comprendre les tendances du marché des transferts dans le football depuis sa professionnalisation jusqu'à aujourd'hui. Nous avons pu identifier les équipes qui ont dépensé le plus d'argent pour les transferts de joueurs, les joueurs les plus chers, les ligues les plus actives sur le marché des transferts et les tendances des prix des transferts au fil du temps.
-
-Nous avons également identifié des défis dans la collecte et la gestion des données, notamment la variabilité dans la qualité des données collectées et la nécessité de maintenir les données à jour pour obtenir des résultats précis.
-
-Notre projet a également souligné l'importance de la collaboration interdisciplinaire pour mener à bien un projet de data engineering. Nous avons travaillé en étroite collaboration avec des experts en football pour comprendre les concepts clés et les tendances du marché des transferts dans le football, et avec des ingénieurs de données pour mettre en place une architecture de données distribuée efficace pour gérer les données collectées.
-
-En conclusion, notre projet de data engineering sur le marché des transferts dans le football nous a permis de collecter, stocker, traiter et analyser un volume important de données pour comprendre les tendances du marché des transferts. Nous avons identifié les équipes qui ont dépensé le plus d'argent pour les transferts de joueurs, les joueurs les plus chers, les ligues les plus actives sur le marché des transferts et les tendances des prix des transferts au fil du temps. Nous avons également souligné l'importance de la collaboration interdisciplinaire pour mener à bien un projet de data engineering.
+Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -225,7 +148,7 @@ En conclusion, notre projet de data engineering sur le marché des transferts da
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/guypi001/DE](https://github.com/guypi001/DE)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
