@@ -99,7 +99,7 @@ L'architecture de notre projet est la suivante :
 
 Collecte de données : Nous avons utilisé des scripts Python pour extraire les données des sites web Transfermarkt.com et opdata en utilisant la technique de scrapping. Les données ont été stockées dans des fichiers CSV puis enregistrées sur le cloud.
 
-Stockage de données : Nous avons utilisé Google drive pour la persistance de données..
+Stockage de données : Nous avons utilisé Google drive pour la persistance de données...
 
 Traitement de données : Les données ont été nettoyées et traitées en utilisant Python et la bibliothèque Pandas. Les données ont été nettoyées pour éliminer les données manquantes, les valeurs aberrantes et les doublons. Les données ont été transformées pour être prêtes pour l'analyse.
 
